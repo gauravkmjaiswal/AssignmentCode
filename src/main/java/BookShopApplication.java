@@ -1,10 +1,11 @@
 import java.util.Scanner;
-import java.util.Objects;
 
-import entity.Book;
-import entity.User;
-import service.BookService;
-import service.UserService;
+import com.osttra.pojo.Book;
+import com.osttra.pojo.User;
+import com.osttra.service.BookService;
+import com.osttra.service.UserService;
+
+import java.util.Objects;
 
 public class BookShopApplication {
 
